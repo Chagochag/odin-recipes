@@ -1,0 +1,53 @@
+
+
+
+
+
+* {
+    border: 2px solid red;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.front-page-list {
+    font-size: 24px;
+    font-family: Helvetica, Arial, 'sans-serif';
+    font-weight: 500;
+}
+
+
+.recipe-description {
+    font-size: 18px;
+    color: brown;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.main-header {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+ol.center, ul.center {
+    text-align: center;
+}
+
+.images {
+    width: 300px;
+    height: auto;
+}
+
+ol.green {
+    background-color: green;
+}
+
+ul, ol, li{
+    margin: 5px;
+    padding: 5px;
+}
